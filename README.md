@@ -1,11 +1,11 @@
-# ESlint Config for JavaScript
+# ESlint Config for ReactJS
 
-A Standard ESlint rules for JavaScript project
+A Standard ESlint rules for ReactJS project
 
 ## Installation
 
 ```
-npm i @thecodejs/eslint-config-js --save-dev
+npm i @thecodejs/eslint-config-react --save-dev
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ In your project, create a **.eslintrc.json** file and write below code.
 
 ```json
 {
-    "extends": ["@thecodejs/eslint-config-js"],
+    "extends": ["@thecodejs/eslint-config-react"],
     "env": {},
     "parserOptions": {},
     "rules": {}
